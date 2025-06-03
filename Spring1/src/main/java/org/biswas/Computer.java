@@ -1,2 +1,5 @@
-package org.biswas;public interface Computer {
+package org.biswas;
+
+public interface Computer {
+    void compile();
 }

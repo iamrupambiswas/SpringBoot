@@ -1,7 +1,6 @@
-package com.biswas.SpringBootDemo;
+package com.biswas.SpringBootDemo.repository;
 
 import com.biswas.SpringBootDemo.model.Laptop;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 
 @Repository

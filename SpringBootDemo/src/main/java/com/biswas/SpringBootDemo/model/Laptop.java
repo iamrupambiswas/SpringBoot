@@ -1,4 +1,4 @@
-package com.biswas.SpringBootDemo;
+package com.biswas.SpringBootDemo.model;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
